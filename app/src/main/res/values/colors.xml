@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorBurblecolorAccent">#03DAC5</color>
+    <color name="colorDarkgrey">#272727</color>
+    <color name="coloryellow">#EFF1F3</color>
+    <color name="ds" />
+    <color name="darkTranspert">#C61B1310</color>
+    <color name="darkyellow">#6D5A3E</color>
+    <color name="red">#EFF1F3</color>
+
+</resources>
